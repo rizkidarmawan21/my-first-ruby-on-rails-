@@ -1,0 +1,2 @@
+class RoleAgent < ApplicationRecord
+end
